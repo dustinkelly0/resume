@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
 # Site
-repository: dustinkelly0/resume
+baseurl: "/resume/"
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
 name: Dustin Kelly
-title: Cloud Support Engineer
-email: dustin
+title: Resume
+email: dustin-kelly@outlook.com
 website: https://dustinkelly.info
 
 # Dark Mode (true/false/never)
